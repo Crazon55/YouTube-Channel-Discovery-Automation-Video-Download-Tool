@@ -1,4 +1,4 @@
-# YouTube-Channel-Discovery-Automation-Video-Download-Tool
+# YouTube-Channel-Discovery-Automation
 
 
 # YouTube-Channel-Discovery-Automation Workflow
